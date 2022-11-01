@@ -1,0 +1,14 @@
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\bin\Debug\netcoreapp3.1\лр 6 2.exe
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\bin\Debug\netcoreapp3.1\лр 6 2.deps.json
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\bin\Debug\netcoreapp3.1\лр 6 2.runtimeconfig.json
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\bin\Debug\netcoreapp3.1\лр 6 2.runtimeconfig.dev.json
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\bin\Debug\netcoreapp3.1\лр 6 2.dll
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\bin\Debug\netcoreapp3.1\лр 6 2.pdb
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.csproj.AssemblyReference.cache
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.AssemblyInfoInputs.cache
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.AssemblyInfo.cs
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.csproj.CoreCompileInputs.cache
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.dll
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.pdb
+C:\Users\sereg\source\repos\лр 6 2\лр 6 2\obj\Debug\netcoreapp3.1\лр 6 2.genruntimeconfig.cache
